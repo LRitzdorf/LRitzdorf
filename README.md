@@ -15,6 +15,8 @@
 
 | Platform | Profile |
 |-|-|
+| LinkedIn | <a href="https://linkedin.com/in/lucas-ritzdorf-97b3081aa">Lucas Ritzdorf</a> |
 | Mastodon | <a rel="me" href="https://universeodon.com/@lritzdorf">`@lritzdorf@universeodon.com`</a> |
 | Discord | `LRitzdorf#0446` |
+| Matrix | `@lritzdorf:matrix.org` |
 
