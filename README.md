@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a college student at Montana State University, pursuing a major in
+I'm an undergraduate student at Montana State University, pursuing a B.S. in
 Computer Engineering and a minor in Hispanic Studies (with a focus on
 linguistics).
 
