@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a college student at Montana State University (@msu), pursuing a major in
+I'm a college student at Montana State University, pursuing a major in
 Computer Engineering and a minor in Hispanic Studies (with a focus on
 linguistics).
 
@@ -20,7 +20,7 @@ interesting ones:
 - [`helpers`](https://github.com/LRitzdorf/helpers),
   a repo for random helper scripts I've made for myself
 - [`GitTraining`](https://github.com/LRitzdorf/GitTraining),
-  a companion repository for my introductory `git` presentation
+  a companion repository for my introductory Git presentation
 - [`TheJeffDeanFacts`](https://github.com/LRitzdorf/TheJeffDeanFacts),
   a collection of programmer-style "Chuck Norris" jokes
 
