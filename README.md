@@ -35,7 +35,8 @@ interesting ones:
 
 | Platform | Profile |
 |-|-|
-| LinkedIn | <a href="https://linkedin.com/in/lucas-ritzdorf-97b3081aa">Lucas Ritzdorf</a> |
+| ORCID | [Lucas Ritzdorf](https://orcid.org/0000-0002-0512-8850) |
+| LinkedIn | [Lucas Ritzdorf](https://linkedin.com/in/lucas-ritzdorf-97b3081aa) |
 | Mastodon | <a rel="me" href="https://universeodon.com/@lritzdorf">`@lritzdorf@universeodon.com`</a> |
 | Discord | `LRitzdorf#0446` |
 | Matrix | `@lritzdorf:matrix.org` |
