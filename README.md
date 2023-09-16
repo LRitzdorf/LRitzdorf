@@ -21,9 +21,9 @@ I also do things on GitHub from time to time. Here are some of the more interest
 
 ## Statistics
 
-![](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub stats block: overview](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub stats block: languages](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Other Platforms
