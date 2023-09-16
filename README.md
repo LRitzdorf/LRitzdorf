@@ -2,18 +2,13 @@
 
 ## About Me
 
-I'm an undergraduate student at Montana State University, pursuing a B.S. in
-Computer Engineering and a minor in Hispanic Studies (with a focus on
-linguistics).
+I'm an undergraduate student at Montana State University, pursuing a B.S. in Computer Engineering and a minor in Hispanic Studies (with a focus on linguistics).
 
-I've also participated in a variety of research projects, including
-high-performance computing at the Los Alamos National Laboratory, and hardware
-obfuscation with FPGAs at Montana State University.
+I've also participated in a variety of research projects, including high-performance computing at the Los Alamos National Laboratory, and hardware obfuscation with FPGAs at Montana State University.
 
 ## Projects
 
-I also do things on GitHub from time to time. Here are some of the more
-interesting ones:
+I also do things on GitHub from time to time. Here are some of the more interesting ones:
 
 - [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim),
   a (Neo)Vim plugin for writing [YAGPDB](https://yagpdb.xyz) custom commands
