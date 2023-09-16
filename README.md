@@ -33,7 +33,6 @@ I also do things on GitHub from time to time. Here are some of the more interest
 | ORCID | [Lucas Ritzdorf](https://orcid.org/0000-0002-0512-8850) |
 | LinkedIn | [Lucas Ritzdorf](https://linkedin.com/in/lucas-ritzdorf-97b3081aa) |
 | Mastodon | <a rel="me" href="https://universeodon.com/@lritzdorf">`@lritzdorf@universeodon.com`</a> |
-| Matrix | `@lritzdorf:matrix.org` |
 
 PGP Key ID: `42AEBEB75C6509BE2A1C2A7C29EAD1C260B655FE`
 
