@@ -5,7 +5,7 @@
 I'm an undergraduate student at Montana State University, pursuing a B.S. in Computer Engineering and a minor in Hispanic Studies (with a focus on linguistics).
 
 I've also participated in a variety of research projects, including:
-- Radiation-tolerant and obfuscated processor design via field-programamble gate arrays (Resilient Computing Laboratory, Montana State University)
+- Radiation-tolerant and obfuscated processor design via field-programmable gate arrays (Resilient Computing Laboratory, Montana State University)
 - Convolutional neural networks for self-interference cancellation in full-duplex radio systems (Future Analog System Technologies Laboratory, University of Washington)
 - Network optimization for high-performance computing (Los Alamos National Laboratory)
 
