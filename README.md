@@ -11,6 +11,11 @@ I've also participated in a variety of research projects, including:
 
 ## Projects
 
+- A custom hardware and software stack for advanced RGB LED control, using an SoC FPGA device
+  (unreleased, since this was an academic assignment)
+  - **Hardware:** Memory-mappable PWM controller, implemented in VHDL
+  - **Software:** Linux device drivers for PWM controller and (premade) ADC controller
+  - **Additional:** Custom-built device bootloader to enable I2C peripheral access
 - [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim),
   a (Neo)Vim plugin for writing [YAGPDB](https://yagpdb.xyz) custom commands
 - [`GitTraining`](https://github.com/LRitzdorf/GitTraining),
