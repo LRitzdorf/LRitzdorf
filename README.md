@@ -2,9 +2,11 @@
 
 ## About Me
 
-I'm an undergraduate student at Montana State University, pursuing a B.S. in Computer Engineering and a minor in Hispanic Studies (with a focus on linguistics).
+I'm a graduate student at the University of Washington, pursuing a Ph.D. in Computer Engineering.
+I earned my B.S. in Computer Engineering from Montana State University in 2024, along with a minor in Hispanic Studies (with an emphasis on linguistics).
 
 I've also participated in a variety of research projects, including:
+- Implementing trusted environments in high-performance computing (Los Alamos National Laboratory)
 - Radiation-tolerant and obfuscated processor design via field-programmable gate arrays (Resilient Computing Laboratory, Montana State University)
 - Convolutional neural networks for self-interference cancellation in full-duplex radio systems (Future Analog System Technologies Laboratory, University of Washington)
 - Network optimization for high-performance computing (Los Alamos National Laboratory)
