@@ -41,9 +41,11 @@ I also do other things on GitHub from time to time. Here are some of the more in
 
 ## Other Platforms
 
+<!-- NOTE: The rogue <area> tag in the Mastodon link here prevents GitHub's auto-linkifier from creating a mailto link based on what it thinks is an email address -->
 | Platform | Profile |
 |-|-|
-| Mastodon | <a rel="me" href="https://universeodon.com/@lritzdorf">`@lritzdorf@universeodon.com`</a> |
+| Mastodon | <a rel="me" href="https://universeodon.com/@lritzdorf">@lritzdorf<area>@universeodon.com</a> |
+| Matrix   | [@lritzdorf:matrix.org](https://matrix.to/#/@lritzdorf:matrix.org) |
 
 PGP Key ID: `42AEBEB75C6509BE2A1C2A7C29EAD1C260B655FE`
 
