@@ -34,10 +34,10 @@ I also do other things on GitHub from time to time. Here are some of the more in
 
 ## Statistics
 
-![GitHub stats block: overview](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![GitHub stats block: languages](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LRitzdorf/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GitHub stats block: overview](https://raw.githubusercontent.com/LRitzdorf/github-stats/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LRitzdorf/github-stats/generated/overview.svg#gh-light-mode-only)
+![GitHub stats block: languages](https://raw.githubusercontent.com/LRitzdorf/github-stats/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LRitzdorf/github-stats/generated/languages.svg#gh-light-mode-only)
 
 ## Other Platforms
 
