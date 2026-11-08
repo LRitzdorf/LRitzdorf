@@ -5,11 +5,27 @@
 I'm a graduate student at the University of Washington, pursuing a Ph.D. in Computer Engineering.
 I earned my B.S. in Computer Engineering from Montana State University in 2024, along with a minor in Hispanic Studies (with an emphasis on linguistics).
 
+On GitHub, I mostly help out with software I use, where I can.
+
 I've also participated in a variety of research projects, including:
 - Implementing trusted environments in high-performance computing (Los Alamos National Laboratory)
 - Radiation-tolerant and obfuscated processor design via field-programmable gate arrays (Resilient Computing Laboratory, Montana State University)
 - Convolutional neural networks for self-interference cancellation in full-duplex radio systems (Future Analog System Technologies Laboratory, University of Washington)
 - Network optimization for high-performance computing (Los Alamos National Laboratory)
+
+My work takes place at the AI:0 level, with *very* occasional AI:R work where it is unavoidable.
+([What's this?](https://0rwx.com))
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://0rwx.com/static/AI-0-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://0rwx.com/static/AI-0-light.png">
+  <img src="https://0rwx.com/static/AI-0-light.png" width="100" alt="AI:0 icon">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://0rwx.com/static/AI-R-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://0rwx.com/static/AI-R-light.png">
+  <img src="https://0rwx.com/static/AI-R-light.png" width="100" alt="AI:R icon">
+</picture>
 
 ## Projects
 
